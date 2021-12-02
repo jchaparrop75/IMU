@@ -1,1 +1,1 @@
-# Este archivo contine información de sensores inercialciales de 6 variables: acelerometro y giroscopio
+# Este archivo contine información de sensores inerciales de 6 variables: acelerometro y giroscopio
